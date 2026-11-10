@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "tag": "v0.2.2-rc.1-internal.5",
+  "manifestSha256": "086f142301d83a0e9bd2690e3931823d98e123cf3d334ee558feea87653d147a",
+  "provenance": {
+    "releaseTag": "v0.2.2-rc.1-internal.5",
+    "sourceCommit": "86f0a14dab158273e182da865f5dfc6d95717658",
+    "harnessCommit": "66491b05e3f05ad35bcdd4f6cd7ed26041d9e3db",
+    "buildUrl": "https://github.com/aiuluna/yujian-ai-workbench/actions/runs/42774928309"
+  },
+  "targets": [
+    {
+      "platform": "win32",
+      "arch": "x64"
+    }
+  ],
+  "files": [
+    {
+      "name": "yujian-workbench-internal-0.2.2-rc.1-win-x64.exe",
+      "bytes": 453498319,
+      "sha256": "653dd872ac6821141b821f22e296821a114f24588dd509e25dcbd59432f879d3"
+    }
+  ]
+}
