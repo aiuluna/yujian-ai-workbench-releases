@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "tag": "v0.2.2-rc.1-internal.32",
+  "manifestSha256": "617c7a577d9e83eec858f21da7db447a9f52601b7d0bb7a68770bd2a8a373605",
+  "provenance": {
+    "releaseTag": "v0.2.2-rc.1-internal.32",
+    "sourceCommit": "0272ec234ef3fd3dd67d23f356cf089ff4918961",
+    "harnessCommit": "66491b05e3f05ad35bcdd4f6cd7ed26041d9e3db",
+    "requestId": "7af9e7fa-acf8-4f79-b52d-3521628a33d0",
+    "runId": "43463417024",
+    "runAttempt": 1
+  },
+  "files": [
+    {
+      "name": "yujian-workbench-internal-0.2.2-rc.1-internal.32-mac-arm64.dmg",
+      "target": "mac-arm64",
+      "role": "installer",
+      "bytes": 610788518,
+      "sha256": "b0fee33c3a37ad59f09b4182ca0affa036601c3f71ec16d1822d660eeef7d2d9",
+      "sha512": "XQ9uBPma8xDHxjqmHRqMqcQwj6Fu6sVpLnb/kiyLlxjmtdR4MOCSPVEEtluAYFab0BTMua1+UCGMcRQ85OVQaw==",
+      "url": "https://github.com/aiuluna/yujian-ai-workbench-releases/releases/download/v0.2.2-rc.1-internal.32/yujian-workbench-internal-0.2.2-rc.1-internal.32-mac-arm64.dmg"
+    }
+  ]
+}
